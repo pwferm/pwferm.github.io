@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Värdering on Design &amp; Förädling</title>
-    <link>localhost:8080/categories/v%C3%A4rdering/</link>
+    <link>pwferm.github.io/categories/v%C3%A4rdering/</link>
     <description>Recent content in Värdering on Design &amp; Förädling</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:59:22 +0530</lastBuildDate>
     
-	<atom:link href="localhost:8080/categories/v%C3%A4rdering/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="pwferm.github.io/categories/v%C3%A4rdering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Värdering</title>
-      <link>localhost:8080/post/vardering/</link>
+      <link>pwferm.github.io/post/vardering/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
-      <guid>localhost:8080/post/vardering/</guid>
+      <guid>pwferm.github.io/post/vardering/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;</description>
     </item>
